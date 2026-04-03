@@ -7,6 +7,10 @@ body{
     color: hsla(41, 88%, 59%, 0.916);
 }
 
+main{
+    padding: 10em;
+}
+
 #myButton{
     font-size: 3em;
     padding: 5px 25px;
@@ -15,8 +19,9 @@ body{
 
 .myLabels{
     font-size: 3em;
-    margin: 25px;
-    border: 2px white solid;
+    margin: 50px;
+    border: 2px hsl(0, 13%, 86%) solid;
     padding: 5px 25px;
     border-radius: 5px;
+    color:hsl(132, 88%, 65%);
 }
